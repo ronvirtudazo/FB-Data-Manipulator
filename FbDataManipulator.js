@@ -1,4 +1,4 @@
-function FacebookApp(data){
+function FbDataManipulator(data){
 	
 	this.appID = data.appID;
 	this.channelUrl = data.channelUrl;
