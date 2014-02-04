@@ -7,7 +7,7 @@ function FbDataManipulator(data){
 	
 }
 	
-FacebookApp.prototype = {
+FbDataManipulator.prototype = {
   init: function() {
 		FB.init({
 			appId      : this.appID, // App ID
